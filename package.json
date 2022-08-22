@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paatrick123/bootstrap.git"
+  },
+  "keywords": [
+    "Boostrap"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paatrick123/bootstrap/issues"
+  },
+  "homepage": "https://github.com/paatrick123/bootstrap#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.9.1"
+  }
+}
